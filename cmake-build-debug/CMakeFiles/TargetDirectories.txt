@@ -1,0 +1,3 @@
+/Users/dpattij/CLionProjects/cppmodules/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dpattij/CLionProjects/cppmodules/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dpattij/CLionProjects/cppmodules/cmake-build-debug/CMakeFiles/cppmodules.dir
